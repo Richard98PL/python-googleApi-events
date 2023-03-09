@@ -47,11 +47,8 @@ for i in range(15):
             'timeZone': 'Europe/Warsaw',
         },
         'attendees': [
-            #{'email': 'ryszard.rogalski@britenet.eu'}
-            #,{'email': 'marcin.barszcz@britenet.eu'}
-            #,{'email': 'bartlomiej.matyjaszczyk@britenet.eu'}
-            #{'email': 'adwokatdbl@gmail.com'}
-            {'email': 'tomasz.zieba@britenet.eu'}
+            {'email': 'test.test@test.eu'}
+           
         ]
     }
 
